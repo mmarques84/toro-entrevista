@@ -1,0 +1,12 @@
+C:\Users\marcu\Downloads\Entrevista\Entrevista\Repository\obj\Debug\Repository.csproj.AssemblyReference.cache
+C:\Users\marcu\Downloads\Entrevista\Entrevista\Repository\obj\Debug\Repository.csproj.CoreCompileInputs.cache
+C:\Users\marcu\Downloads\Entrevista\Entrevista\Repository\bin\Debug\Repository.dll
+C:\Users\marcu\Downloads\Entrevista\Entrevista\Repository\bin\Debug\Repository.pdb
+C:\Users\marcu\Downloads\Entrevista\Entrevista\Repository\bin\Debug\Domain.dll
+C:\Users\marcu\Downloads\Entrevista\Entrevista\Repository\bin\Debug\EntityFramework.dll
+C:\Users\marcu\Downloads\Entrevista\Entrevista\Repository\bin\Debug\Domain.pdb
+C:\Users\marcu\Downloads\Entrevista\Entrevista\Repository\bin\Debug\Domain.dll.config
+C:\Users\marcu\Downloads\Entrevista\Entrevista\Repository\bin\Debug\EntityFramework.xml
+C:\Users\marcu\Downloads\Entrevista\Entrevista\Repository\obj\Debug\Repository.csproj.Up2Date
+C:\Users\marcu\Downloads\Entrevista\Entrevista\Repository\obj\Debug\Repository.dll
+C:\Users\marcu\Downloads\Entrevista\Entrevista\Repository\obj\Debug\Repository.pdb

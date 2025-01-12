@@ -1,0 +1,7 @@
+**/Program Files/
+**/Windows/
+.git/
+.vscode/
+*.md
+bin/
+obj/
