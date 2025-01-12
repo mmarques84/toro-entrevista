@@ -1,0 +1,177 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\marcu\\Downloads\\Entrevista\\Entrevista\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4B728DA4-3CB9-4FCB-9385-55AF6BC07B39}|Itens de Solu\u00E7\u00E3o{4B728DA4-3CB9-4FCB-9385-55AF6BC07B39}|C:\\Users\\marcu\\Downloads\\Entrevista\\Entrevista\\README.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{4B728DA4-3CB9-4FCB-9385-55AF6BC07B39}|Itens de Solu\u00E7\u00E3o{4B728DA4-3CB9-4FCB-9385-55AF6BC07B39}|solutionrelative:README.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B728DA4-3CB9-4FCB-9385-55AF6BC07B39}|Itens de Solu\u00E7\u00E3o{4B728DA4-3CB9-4FCB-9385-55AF6BC07B39}|C:\\Users\\marcu\\Downloads\\Entrevista\\Entrevista\\DockerFile||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{4B728DA4-3CB9-4FCB-9385-55AF6BC07B39}|Itens de Solu\u00E7\u00E3o{4B728DA4-3CB9-4FCB-9385-55AF6BC07B39}|solutionrelative:DockerFile||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|Business||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B728DA4-3CB9-4FCB-9385-55AF6BC07B39}|Itens de Solu\u00E7\u00E3o{4B728DA4-3CB9-4FCB-9385-55AF6BC07B39}|C:\\Users\\marcu\\Downloads\\Entrevista\\Entrevista\\.dockerignore||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{4B728DA4-3CB9-4FCB-9385-55AF6BC07B39}|Itens de Solu\u00E7\u00E3o{4B728DA4-3CB9-4FCB-9385-55AF6BC07B39}|solutionrelative:.dockerignore||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B728DA4-3CB9-4FCB-9385-55AF6BC07B39}|Itens de Solu\u00E7\u00E3o{4B728DA4-3CB9-4FCB-9385-55AF6BC07B39}|C:\\Users\\marcu\\Downloads\\Entrevista\\Entrevista\\docker-compose.yml||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{4B728DA4-3CB9-4FCB-9385-55AF6BC07B39}|Itens de Solu\u00E7\u00E3o{4B728DA4-3CB9-4FCB-9385-55AF6BC07B39}|solutionrelative:docker-compose.yml||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21DFEC23-5F98-4184-8DA5-FF8482CC88BD}|Business\\Business.csproj|C:\\Users\\marcu\\Downloads\\Entrevista\\Entrevista\\business\\orquestradordecalculo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21DFEC23-5F98-4184-8DA5-FF8482CC88BD}|Business\\Business.csproj|solutionrelative:business\\orquestradordecalculo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16EA4FB6-991E-4C3F-BCD8-F0DDB9818AD5}|Console\\Console.csproj|C:\\Users\\marcu\\Downloads\\Entrevista\\Entrevista\\console\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16EA4FB6-991E-4C3F-BCD8-F0DDB9818AD5}|Console\\Console.csproj|solutionrelative:console\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC7A8008-C68E-4B39-A152-638531FC99B6}|Messaging\\Messaging.csproj|C:\\Users\\marcu\\Downloads\\Entrevista\\Entrevista\\messaging\\rabbitmqservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC7A8008-C68E-4B39-A152-638531FC99B6}|Messaging\\Messaging.csproj|solutionrelative:messaging\\rabbitmqservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": ".dockerignore",
+              "DocumentMoniker": "C:\\Users\\marcu\\Downloads\\Entrevista\\Entrevista\\.dockerignore",
+              "RelativeDocumentMoniker": ".dockerignore",
+              "ToolTip": "C:\\Users\\marcu\\Downloads\\Entrevista\\Entrevista\\.dockerignore",
+              "RelativeToolTip": ".dockerignore",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-01-12T17:46:43.7Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DockerFile",
+              "DocumentMoniker": "C:\\Users\\marcu\\Downloads\\Entrevista\\Entrevista\\Dockerfile",
+              "RelativeDocumentMoniker": "Dockerfile",
+              "ToolTip": "C:\\Users\\marcu\\Downloads\\Entrevista\\Entrevista\\Dockerfile",
+              "RelativeToolTip": "Dockerfile",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvxAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-01-12T17:33:00.477Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "docker-compose.yml",
+              "DocumentMoniker": "C:\\Users\\marcu\\Downloads\\Entrevista\\Entrevista\\docker-compose.yml",
+              "RelativeDocumentMoniker": "docker-compose.yml",
+              "ToolTip": "C:\\Users\\marcu\\Downloads\\Entrevista\\Entrevista\\docker-compose.yml",
+              "RelativeToolTip": "docker-compose.yml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003775|",
+              "WhenOpened": "2025-01-12T17:32:57.124Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "README.md",
+              "DocumentMoniker": "C:\\Users\\marcu\\Downloads\\Entrevista\\Entrevista\\README.md",
+              "RelativeDocumentMoniker": "README.md",
+              "ToolTip": "C:\\Users\\marcu\\Downloads\\Entrevista\\Entrevista\\README.md",
+              "RelativeToolTip": "README.md",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2025-01-12T13:11:10.16Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Business",
+              "DocumentMoniker": "C:\\Users\\marcu\\Downloads\\Entrevista\\Entrevista\\Business\\Business.csproj",
+              "RelativeDocumentMoniker": "Business\\Business.csproj",
+              "ToolTip": "C:\\Users\\marcu\\Downloads\\Entrevista\\Entrevista\\Business\\Business.csproj",
+              "RelativeToolTip": "Business\\Business.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-01-12T17:52:36.572Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "OrquestradorDeCalculo.cs",
+              "DocumentMoniker": "C:\\Users\\marcu\\Downloads\\Entrevista\\Entrevista\\Business\\OrquestradorDeCalculo.cs",
+              "RelativeDocumentMoniker": "Business\\OrquestradorDeCalculo.cs",
+              "ToolTip": "C:\\Users\\marcu\\Downloads\\Entrevista\\Entrevista\\Business\\OrquestradorDeCalculo.cs",
+              "RelativeToolTip": "Business\\OrquestradorDeCalculo.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAA7wBsAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-11T18:05:39.276Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\marcu\\Downloads\\Entrevista\\Entrevista\\Console\\Program.cs",
+              "RelativeDocumentMoniker": "Console\\Program.cs",
+              "ToolTip": "C:\\Users\\marcu\\Downloads\\Entrevista\\Entrevista\\Console\\Program.cs",
+              "RelativeToolTip": "Console\\Program.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABQAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-11T17:51:16.79Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "RabbitMQService.cs",
+              "DocumentMoniker": "C:\\Users\\marcu\\Downloads\\Entrevista\\Entrevista\\Messaging\\RabbitMQService.cs",
+              "RelativeDocumentMoniker": "Messaging\\RabbitMQService.cs",
+              "ToolTip": "C:\\Users\\marcu\\Downloads\\Entrevista\\Entrevista\\Messaging\\RabbitMQService.cs",
+              "RelativeToolTip": "Messaging\\RabbitMQService.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAAAkwDYAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-11T17:43:50.919Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{004be353-6879-467c-9d1e-9ac23cdf6d49}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
